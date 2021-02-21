@@ -1,0 +1,20 @@
+
+Zeki
+list comprehension
+lambda
+
+Mina
+strneo
+sifre kirma
+
+Serdar
+class
+multiple inheritance
+
+Adil
+doviz kurlari
+package
+
+subaru: 2
+vw: 1
+
