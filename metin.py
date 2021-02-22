@@ -1,5 +1,4 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run 
+# author: @gulenzek
 paragraf = "merhaba dünya. merhaba admin dilerim merhaba "
 def kelime_say(para):
     sozcukler = {}
